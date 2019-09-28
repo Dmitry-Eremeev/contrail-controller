@@ -1,3 +1,8 @@
+my commits:
+https://github.com/Dmitry-Eremeev/contrail-controller/commit/b6d9f143be020eea792ddb8ebcd6fc2dc8dfd114
+https://github.com/Dmitry-Eremeev/contrail-controller/commit/5d93ceae0fd7ff786b9f522e96822560bd9bc512
+
+
 contrail-controller
 ===================
 
